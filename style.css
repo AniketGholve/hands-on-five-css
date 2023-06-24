@@ -121,9 +121,6 @@ li a{
     }
 }
 @media (max-width:500px) {
-    .heading h1{
-        font-size: 90px;
-    }
     .nav-items{
         flex-direction: column;
     }
